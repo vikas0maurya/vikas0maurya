@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vikas Kumar maurya
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vikas707maurya@gmail.com
 
