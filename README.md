@@ -20,7 +20,13 @@
 
 ###
 
-<p align="left">I'm Vikas Kumar Maurya<br>A passionate DevOps Engineer from India <br><br>- 🌱 I’m currently learning DevOps tools<br>- 💬 Ask me about DevOps Tools<br>- 📫 How to reach me vikas707maurya@gmail.com</p>
+<p align="left">I'm Vikas Kumar Maurya
+
+  A passionate DevOps Engineer from India 
+  <br>
+ - 🌱 I’m currently learning DevOps tools
+ - 💬 Ask me about **DevOps Tools**
+ - 📫 How to reach me **vikas707maurya@gmail.com**
 
 ###
 
