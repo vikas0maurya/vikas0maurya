@@ -57,3 +57,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vikas0maurya&show_icons=true"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas0maurya&layout=compact"/>
