@@ -25,7 +25,7 @@
   A passionate DevOps Engineer from India 
   <br>
  - 🌱 I’m currently learning DevOps tools
- - 💬 Ask me about **DevOps Tools**
+ - 💬 Ask me about **AWS & DevOps Tools**
  - 📫 How to reach me **vikas707maurya@gmail.com**
 
 ###
