@@ -38,7 +38,7 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-   <img src="https://icons8.com/icons/set/aws-logo--static--white" height="40" alt="amazonwebservices logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/aws-light.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60" alt="docker logo"  />
   <img width="12" />
